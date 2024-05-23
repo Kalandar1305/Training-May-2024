@@ -17,5 +17,6 @@ b=10;
 c=a+b;
 printf("c=",c);
 
+return 0;
 }
 
